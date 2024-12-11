@@ -1,0 +1,3 @@
+D:/3. My Project/C++/Quera/Drop Me Off/cmake-build-debug/CMakeFiles/Drop_Me_Off.dir
+D:/3. My Project/C++/Quera/Drop Me Off/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/3. My Project/C++/Quera/Drop Me Off/cmake-build-debug/CMakeFiles/rebuild_cache.dir
